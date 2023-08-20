@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+
+.menu {
+  background-color: rgb(61, 134, 231);
+  width: 20%;
+  height: 100vh;
+  position: fixed;
+  display: grid;
+}
+
+.header {
+  background-color: rgb(242, 242, 254);
+  height: 20vh;
+  width: 80%;
+  position: fixed;
+  margin-left: 20%;
+}
+
+.content {
+  background-color: lightgray;
+  height: 200vh;
+  width: 80%;
+  margin-top: 20vh;
+  margin-left: 20%;
+}
